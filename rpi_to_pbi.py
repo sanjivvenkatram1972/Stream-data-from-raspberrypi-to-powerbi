@@ -1,4 +1,4 @@
-# Program to stream environment and movement data from Raspberry Pi 3 and Sense HAT to Power BI Service
+# Code to stream environment and movement data from Raspberry Pi 3 and Sense HAT to Power BI Service
 
 import time
 import requests
